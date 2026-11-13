@@ -47,4 +47,5 @@ main_engine.connect(setting, "BINANCE")
 
 ## 联系方式
 
-如有合作或定制开发需求，欢迎联系：jayhaha600@gmail.com
+如有合作或定制开发需求，欢迎联系：contact@graq.com
+
